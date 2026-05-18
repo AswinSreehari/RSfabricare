@@ -7,18 +7,66 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Diagnostic reports (Crashed node processes)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Build and Production outputs
+dist/
+dist-ssr/
+build/
+out/
+.next/
+.nuxt/
+
+# Environment Variables & Secrets (CRITICAL: Never push these)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.env.*
+!.env.example
+
+# Serverless Webpack directories
+.webpack/
+.serverless/
+
+# OS-specific clutter
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+!.vscode/settings.json
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+.classpath
+.project
+.settings/
+
+# Testing / Coverage
+coverage/
+.nyc_output/
+
+# Package manager lockfile variations (Optional)
+# Uncomment these if you explicitly want to ignore specific lock files, 
+# though keeping package-lock.json or yarn.lock is usually recommended for teams.
+# pnpm-lock.yaml
+# bun.lockb

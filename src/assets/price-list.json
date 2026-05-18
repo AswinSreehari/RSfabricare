@@ -1,0 +1,1436 @@
+[
+  {
+    "productName": "ABAYA (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "42.00"
+  },
+  {
+    "productName": "advocate coat [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "120.00"
+  },
+  {
+    "productName": "BATHTOWEL (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "14.00"
+  },
+  {
+    "productName": "Bed Sheet Double [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "120.00"
+  },
+  {
+    "productName": "BEDSHEET-DOUBLE (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "32.00"
+  },
+  {
+    "productName": "BEDSHEET-KING (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "32.00"
+  },
+  {
+    "productName": "BEDSHEET-QUEEN (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "32.00"
+  },
+  {
+    "productName": "Bed sheet single [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "70.00"
+  },
+  {
+    "productName": "BEDSHEET-SINGLE (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "24.00"
+  },
+  {
+    "productName": "Bed sheet(wash+iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Bedsheet (wash+iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Bed Spread Double [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "375.00"
+  },
+  {
+    "productName": "Bed Spread Single [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "250.00"
+  },
+  {
+    "productName": "Belt [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "250.00"
+  },
+  {
+    "productName": "Blanket Double [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "375.00"
+  },
+  {
+    "productName": "Blanket Single [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "270.00"
+  },
+  {
+    "productName": "Blazer [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "400.00"
+  },
+  {
+    "productName": "Blouse designer [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "BLOUSE (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "14.00"
+  },
+  {
+    "productName": "Blouse [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "48.00"
+  },
+  {
+    "productName": "bottom silk [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "89.00"
+  },
+  {
+    "productName": "bottom [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "59.00"
+  },
+  {
+    "productName": "Brassieres [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "54.00"
+  },
+  {
+    "productName": "BRIDAL LACHA(FULL SET) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "160.00"
+  },
+  {
+    "productName": "BRIDALLEHANGA(FULL SET) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "800.00"
+  },
+  {
+    "productName": "BRIDAL SAREE WITH STONE WORK (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "350.00"
+  },
+  {
+    "productName": "Bridal wear [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "1250.00"
+  },
+  {
+    "productName": "canvas shoes [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "330.00"
+  },
+  {
+    "productName": "Capri [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "70.00"
+  },
+  {
+    "productName": "Capri [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Capri [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Carpet per sq feet [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "30.00"
+  },
+  {
+    "productName": "Car Seatcover [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "270.00"
+  },
+  {
+    "productName": "Chair Covers [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "55.00"
+  },
+  {
+    "productName": "Churidar Bottom (ironing) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "18.00"
+  },
+  {
+    "productName": "Churidar Bottom (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "churidar  design work [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "250.00"
+  },
+  {
+    "productName": "churidar jute [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "132.00"
+  },
+  {
+    "productName": "churidar silk [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "130.00"
+  },
+  {
+    "productName": "Churidar Top (Ironing) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "19.00"
+  },
+  {
+    "productName": "Churidar/Top (wash+iron (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "churidar Top [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "churidar white [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "Churidhar (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "17.00"
+  },
+  {
+    "productName": "churi pearls [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "churi stones [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Coat [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "250.00"
+  },
+  {
+    "productName": "Coat [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "300.00"
+  },
+  {
+    "productName": "COAT(SINGLEPIECES) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "88.00"
+  },
+  {
+    "productName": "Coat [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "300.00"
+  },
+  {
+    "productName": "Comfotter [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "400.00"
+  },
+  {
+    "productName": "Cotton Saree (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Cotton Saree with work/ Stone (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "curtain [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "48.00"
+  },
+  {
+    "productName": "curtain per kg [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "180.00"
+  },
+  {
+    "productName": "CURTAIN (PER Panel) FULL (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "CURTAIN(PER PIECES)HALF (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "48.00"
+  },
+  {
+    "productName": "Cushion Covers [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "55.00"
+  },
+  {
+    "productName": "Dangree [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "125.00"
+  },
+  {
+    "productName": "Dangree [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "DHOTHI (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "20.00"
+  },
+  {
+    "productName": "DHOTI(BELOW 10 YRS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "40.00"
+  },
+  {
+    "productName": "Dhoti Double (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "125.00"
+  },
+  {
+    "productName": "Dhoti Double (Wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Dhoti silk [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "120.00"
+  },
+  {
+    "productName": "Dhoti Single [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "112.00"
+  },
+  {
+    "productName": "dhoti stain [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "110.00"
+  },
+  {
+    "productName": "Dhoti (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Doctor coat [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "120.00"
+  },
+  {
+    "productName": "DRESS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "64.00"
+  },
+  {
+    "productName": "Dress long [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "180.00"
+  },
+  {
+    "productName": "DRESS WITH STONE WORK (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "160.00"
+  },
+  {
+    "productName": "dupatta Desinger [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "dupatta jute [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "dupatta silk [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "dupatta [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "50.00"
+  },
+  {
+    "productName": "DUPPATTA (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "Duvet [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Foot Mats [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "70.00"
+  },
+  {
+    "productName": "Gloves [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "GOWN (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "64.00"
+  },
+  {
+    "productName": "GOWN WITH STONE WORK (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "160.00"
+  },
+  {
+    "productName": "Handkerchief [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "40.00"
+  },
+  {
+    "productName": "Hand Towel [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "40.00"
+  },
+  {
+    "productName": "Hat [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Helmet (drycleaning) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Hoodie [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "320.00"
+  },
+  {
+    "productName": "Jacket Half [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "75.00"
+  },
+  {
+    "productName": "Jacket Half [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Jacket Half [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "JACKET (KIDS BELOW 10YRS) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "16.00"
+  },
+  {
+    "productName": "Jacket [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "Jacket [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "300.00"
+  },
+  {
+    "productName": "JACKET(SINGLEPIECES) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "88.00"
+  },
+  {
+    "productName": "Jacket [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "300.00"
+  },
+  {
+    "productName": "JEANS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "18.00"
+  },
+  {
+    "productName": "Jeans [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Jeans [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Jeans (Wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Jeans [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Jersey (wash + Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "50.00"
+  },
+  {
+    "productName": "Jumper [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "Kancheepuram Saree (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "kancheepuram silk saree [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "500.00"
+  },
+  {
+    "productName": "kasav saree [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "kasavu saree designer [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "225.00"
+  },
+  {
+    "productName": "khaki uniform [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "75.00"
+  },
+  {
+    "productName": "Kids dhoti (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Kids dhoti (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "Kurta [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Kurta Pyajama [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "199.00"
+  },
+  {
+    "productName": "Kurta Pyjama (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "kurta silk [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "Kurta (wash+iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "KURTHA (KID BELOW 10YRS) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "LACHA(FULL SET) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "64.00"
+  },
+  {
+    "productName": "Ladies Kurta (Wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Ladies Top [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Leather Jacket [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "500.00"
+  },
+  {
+    "productName": "Leather shoes [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "500.00"
+  },
+  {
+    "productName": "Leather Shoes [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "500.00"
+  },
+  {
+    "productName": "LEHANGA(FULL SET) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Lehenga Skirt (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "350.00"
+  },
+  {
+    "productName": "lehnga bottom [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "750.00"
+  },
+  {
+    "productName": "Lehnga top [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "400.00"
+  },
+  {
+    "productName": "Longcoat [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "350.00"
+  },
+  {
+    "productName": "Long Coat [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "350.00"
+  },
+  {
+    "productName": "Long kurta ladies (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "350.00"
+  },
+  {
+    "productName": "Long kurta ladies (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "32.00"
+  },
+  {
+    "productName": "LONG SKIRTS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "32.00"
+  },
+  {
+    "productName": "Lungi [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Lungi (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Kg",
+    "price": "50.00"
+  },
+  {
+    "productName": "MATRESS COVER (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "48.00"
+  },
+  {
+    "productName": "Mens melmundu (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Mens melmundu (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "15.00"
+  },
+  {
+    "productName": "MINI SKIRTS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "15.00"
+  },
+  {
+    "productName": "MUFFLER (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "14.00"
+  },
+  {
+    "productName": "PANTS(BELOW 10 YRS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "PANTS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "15.00"
+  },
+  {
+    "productName": "Pants [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Pants [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Pants [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Pant (Wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "PATTU PAVADA (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "20.00"
+  },
+  {
+    "productName": "PILLOW COVER (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "Pillow Covers [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "30.00"
+  },
+  {
+    "productName": "PYJAMA(BELOW 10 YRS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "Pyjama [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "70.00"
+  },
+  {
+    "productName": "Pyjama [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Pyjama (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Quilt Double [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "350.00"
+  },
+  {
+    "productName": "Quilt Single [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "270.00"
+  },
+  {
+    "productName": "Rain Coat [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Safari Suit [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "260.00"
+  },
+  {
+    "productName": "saree cotton [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "120.00"
+  },
+  {
+    "productName": "saree designer [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "500.00"
+  },
+  {
+    "productName": "SAREE (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "saree jute [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "180.00"
+  },
+  {
+    "productName": "Saree linen [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "saree net-lac [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Saree Polish (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "saree silk [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "210.00"
+  },
+  {
+    "productName": "Saree starch (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "20.00"
+  },
+  {
+    "productName": "saree tussar silk [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "180.00"
+  },
+  {
+    "productName": "saree [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "125.00"
+  },
+  {
+    "productName": "saree w-t stones [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "350.00"
+  },
+  {
+    "productName": "school uniform girls [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "50.00"
+  },
+  {
+    "productName": "SET-MUDU(SET) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "44.00"
+  },
+  {
+    "productName": "Set Mundu (Wash+Iron (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "Set-mundu [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "195.00"
+  },
+  {
+    "productName": "Set Saree(wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Set Saree [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "SHAWL(BIG) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "15.00"
+  },
+  {
+    "productName": "Shawl [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Sherwani [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "300.00"
+  },
+  {
+    "productName": "Sherwani [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "500.00"
+  },
+  {
+    "productName": "shirt cotton [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "SHIRT(KIDS BELOW 10YRS) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "Shirt [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Shirt [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "shirt silk [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "120.00"
+  },
+  {
+    "productName": "SHIRTS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "15.00"
+  },
+  {
+    "productName": "Shirt stain [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "Shirt (Wash and Iron)",
+    "service": "Wash and Iron",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Shirt (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Shirt (Wash Only)",
+    "service": "Wash Only",
+    "uom": "Nos",
+    "price": "10.00"
+  },
+  {
+    "productName": "Shirt [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Short kurta (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "50.00"
+  },
+  {
+    "productName": "SHORT KURTHA (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "14.00"
+  },
+  {
+    "productName": "SHORTS(BELOW 10 YRS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "SHORT SKIRT(BELOW 10 YRS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "SHORTSKIRT (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "15.00"
+  },
+  {
+    "productName": "Shorts [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Shorts (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "50.00"
+  },
+  {
+    "productName": "SHORTTOP (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "14.00"
+  },
+  {
+    "productName": "Silk Blazer [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "600.00"
+  },
+  {
+    "productName": "Silk blouse [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "SILK SAREE (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "65.00"
+  },
+  {
+    "productName": "Skirt [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "130.00"
+  },
+  {
+    "productName": "Socks [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "60.00"
+  },
+  {
+    "productName": "Sofa cleaning (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "300.00"
+  },
+  {
+    "productName": "Soft Toy Large [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "480.00"
+  },
+  {
+    "productName": "Soft Toy Medium [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "320.00"
+  },
+  {
+    "productName": "Soft Toy Small [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "220.00"
+  },
+  {
+    "productName": "soft toys small [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "220.00"
+  },
+  {
+    "productName": "soR toys large [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "0.00"
+  },
+  {
+    "productName": "soR toys medium [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "0.00"
+  },
+  {
+    "productName": "sports shoes [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "330.00"
+  },
+  {
+    "productName": "Sports Shoes [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "330.00"
+  },
+  {
+    "productName": "Stain removal (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "Starch (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "20.00"
+  },
+  {
+    "productName": "STAWL (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "14.00"
+  },
+  {
+    "productName": "Stocking [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "99.00"
+  },
+  {
+    "productName": "SUIT -2 PIECES (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "SUIT-3 PIECES (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "96.00"
+  },
+  {
+    "productName": "SUIT(KIDS BELOW 10YRS) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "48.00"
+  },
+  {
+    "productName": "Sweater Half [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "130.00"
+  },
+  {
+    "productName": "Sweater Half [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "150.00"
+  },
+  {
+    "productName": "Sweat Pants [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "130.00"
+  },
+  {
+    "productName": "Sweat Shirt [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Sweat Shirt [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "200.00"
+  },
+  {
+    "productName": "Swimming Costume [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "44.00"
+  },
+  {
+    "productName": "Swimming Costume [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "55.00"
+  },
+  {
+    "productName": "Swimming Costume [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "55.00"
+  },
+  {
+    "productName": "Towel [House Hold] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "40.00"
+  },
+  {
+    "productName": "Track Pant [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "Track Pant [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "90.00"
+  },
+  {
+    "productName": "T-shirt Full sleeve (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "120.00"
+  },
+  {
+    "productName": "T SHIRT FULL SLEEVE [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "T-Shirt Full sleeve (wash+Iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "50.00"
+  },
+  {
+    "productName": "T-shirt Half sleeve (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "T-SHIRT(KIDS BELOW 10YRS) (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "12.00"
+  },
+  {
+    "productName": "T Shirt [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "T Shirt [MEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "100.00"
+  },
+  {
+    "productName": "T-SHIRTS (Ironing)",
+    "service": "Ironing",
+    "uom": "Nos",
+    "price": "14.00"
+  },
+  {
+    "productName": "T-shirt (wash+iron) (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "50.00"
+  },
+  {
+    "productName": "T Shirt [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "75.00"
+  },
+  {
+    "productName": "Waist Coat [KIDS] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  },
+  {
+    "productName": "Winter Hat & Scaff [WOMEN] (Dry Cleaning)",
+    "service": "Dry Cleaning",
+    "uom": "Nos",
+    "price": "80.00"
+  }
+]
