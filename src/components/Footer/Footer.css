@@ -1,0 +1,124 @@
+.site-footer {
+  background: #ffffff;
+  color: var(--text);
+  border-top: 1px solid rgba(77, 112, 189, 0.08);
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  gap: 2rem;
+  align-items: start;
+}
+
+.footer-label,
+.footer-copy {
+  color: var(--muted);
+}
+
+.footer-copy {
+  font-size: 1.04rem;
+  line-height: 1.8;
+}
+
+.footer-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1.8rem;
+  border-radius: var(--radius-xl);
+  background: var(--surface);
+  border: 1px solid rgba(77, 112, 189, 0.08);
+  box-shadow: var(--shadow-card);
+}
+
+.footer-card-title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent-strong);
+}
+
+.contact-links-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.icon-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background-color: #f0f4f8;
+  color: #1d4ed8;
+  text-decoration: none;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.icon-link:hover {
+  background-color: #e2e8f0;
+  transform: translateY(-1px);
+}
+
+.icon-link.whatsapp-link:hover {
+  background-color: #25d366;
+  color: white;
+}
+
+.email-link {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.email-link:hover {
+  color: var(--accent-strong);
+}
+
+.hours-text {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.footer-button {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  color: #ffffff !important;
+}
+
+@media (max-width: 1200px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 720px) {
+  .footer-card {
+    padding: 1.2rem;
+    border-radius: 22px;
+  }
+
+  .footer-copy {
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-links-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .icon-link {
+    justify-content: center;
+  }
+}
